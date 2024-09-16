@@ -1,4 +1,4 @@
-# Music Listening Habits: A Comparison of Two Major Cities
+# Comparative analysis of music listening habits (introduction to Python and pandas)
 This project analyzes music streaming data to compare the listening habits of users from two cities, Alpha and Beta, using data from MusicHub. The goal is to explore how user activity and genre preferences differ between these cities.
 
 ## Task
