@@ -1,4 +1,4 @@
-# Research of advertisements for the sale of apartments
+# Research of advertisements for the sale of apartments (exploratory data analysis)
 
 ## Task
 
