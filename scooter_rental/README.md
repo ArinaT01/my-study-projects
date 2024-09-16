@@ -1,4 +1,4 @@
-# Study of Scooter Rental Service (Statistical Analysis of Data)
+# Study of scooter rental service (statistical analysis of data)
 
 ## Task
 
